@@ -1,1 +1,2 @@
-./crawlvenv
+crawlvenv/
+# python -m venv crawlvenv
